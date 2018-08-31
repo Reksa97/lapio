@@ -4,4 +4,3 @@ Kurkku
 Ketsuppi
 Viini
 Sipuli
-Varis
